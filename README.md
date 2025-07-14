@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis Dashboard
+# Pizza Sales Analysis Dashboard
 
 This project is a Power BI dashboard that provides deep insights into pizza sales performance across various dimensions like time, pizza type, and size. The dashboard helps visualize trends, identify best-selling products, and inform data-driven business decisions.
 
@@ -9,7 +9,7 @@ This project is a Power BI dashboard that provides deep insights into pizza sale
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Key Metrics](#key-metrics)
 - [Dashboard Features](#dashboard-features)
@@ -19,7 +19,7 @@ This project is a Power BI dashboard that provides deep insights into pizza sale
 - [Screenshots](#screenshots)
 ---
 
-## 📊 Overview
+## Overview
 
 The dashboard was built using Power BI based on a pizza sales dataset. It helps business owners and analysts understand:
 - Total revenue generation
@@ -29,12 +29,15 @@ The dashboard was built using Power BI based on a pizza sales dataset. It helps 
 
 ---
 
-## 📁 Dataset
-  
+## Datasets
+<img width="479" height="354" alt="pizza dataset 1" src="https://github.com/user-attachments/assets/a3916371-3ee4-4d71-a17a-fa511df1f7bd" />
+<img width="656" height="356" alt="pizza dataset 2" src="https://github.com/user-attachments/assets/83af647d-9145-41f0-b09d-402c55b7f9d1" />
+<img width="866" height="259" alt="pizza dataset 3" src="https://github.com/user-attachments/assets/8d545285-645d-459c-bc84-b8f54e186ac7" />
+<img width="385" height="328" alt="pizza dataset 4" src="https://github.com/user-attachments/assets/fea33351-8b7b-484c-b766-dcfc901a1573" />
 
 ---
 
-## 📈 Key Metrics
+## Key Metrics
 
 | Metric                     | Value    |
 |---------------------------|----------|
@@ -47,14 +50,14 @@ The dashboard was built using Power BI based on a pizza sales dataset. It helps 
 
 ---
 
-## 📋 Dashboard Features
+##  Dashboard Features
 
-- ✅ **Dynamic Filters** (by Chicken, Classic, Supreme, Veggie categories)
-- 📅 **Revenue Trend Over Time**
-- 🕒 **Time of Day Order Distribution**
-- 🧀 **Top-Selling Pizza Types**
-- 🍕 **Sales by Pizza Size**
-- 📦 **Revenue Breakdown by Pizza Type**
+- **Dynamic Filters** (by Chicken, Classic, Supreme, Veggie categories)
+- **Revenue Trend Over Time**
+- **Time of Day Order Distribution**
+- **Top-Selling Pizza Types**
+- **Sales by Pizza Size**
+- **Revenue Breakdown by Pizza Type**
 
 ---
 
