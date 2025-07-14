@@ -29,6 +29,11 @@ The dashboard was built using Power BI based on a pizza sales dataset. It helps 
 
 ---
 
+## 📁 Dataset
+  
+
+---
+
 ## 📈 Key Metrics
 
 | Metric                     | Value    |
@@ -88,16 +93,16 @@ The dashboard was built using Power BI based on a pizza sales dataset. It helps 
 - **Analyze Pizza Size Sales Further**
   - Consider discontinuing or redesigning XXL sizes if margins are poor.
   - Promote upsizing from medium to large (e.g. “Go Large for just $2 more!”).
-- Consider removing or improving underperforming types like *sicilian* and *big_meat*.
 
 ---
 
-## 🛠️ Technologies Used
+##  Tools and Skills Used
 
 - **Power BI Desktop**
 - **Excel / CSV** (source data preprocessing)
 - **DAX / Power Query** (for data transformation)
 - **Visualization** (cards, bar charts, donut charts, line graphs)
+- **Data Modelling**
 
 ---
 
