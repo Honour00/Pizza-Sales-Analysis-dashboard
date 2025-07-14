@@ -10,13 +10,16 @@ This project is a Power BI dashboard that provides deep insights into pizza sale
 ---
 
 ## Table of Contents
-- [Overview](#overview)
-- [Key Metrics](#key-metrics)
-- [Dashboard Features](#dashboard-features)
-- [Insights & Recommendations](#insights--recommendations)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
+- [Overview](https://github.com/Honour00/Pizza-Sales-Analysis-dashboard/blob/main/README.md#overview)
+- [Datasets](https://github.com/Honour00/Pizza-Sales-Analysis-dashboard/blob/main/README.md#datasets)
+- [Data Modelling](https://github.com/Honour00/Pizza-Sales-Analysis-dashboard/blob/main/README.md#data-modelling)
+- [Key Metrics](https://github.com/Honour00/Pizza-Sales-Analysis-dashboard/blob/main/README.md#key-metrics)
+- [Dashboard Features](https://github.com/Honour00/Pizza-Sales-Analysis-dashboard/blob/main/README.md#dashboard-features)
+- [Tools and Skills Used](https://github.com/Honour00/Pizza-Sales-Analysis-dashboard/blob/main/README.md#tools-and-skills-used)
+- [Insights & Recommendations](https://github.com/Honour00/Pizza-Sales-Analysis-dashboard/blob/main/README.md#insights--recommendations)
+- [Snapshots](https://github.com/Honour00/Pizza-Sales-Analysis-dashboard/blob/main/README.md#-snapshots)
+- [Author](https://github.com/Honour00/Pizza-Sales-Analysis-dashboard/blob/main/README.md#author)
+- [Feedback and Contributions](https://github.com/Honour00/Pizza-Sales-Analysis-dashboard/blob/main/README.md#feedback--contributions)
 ---
 
 ## Overview
@@ -37,7 +40,7 @@ The dashboard was built using Power BI based on a pizza sales dataset. It helps 
 
 ---
 
-**Data Modelling**
+## **Data Modelling**
 <img width="785" height="322" alt="Data Model 1" src="https://github.com/user-attachments/assets/a5837dd5-bfe0-4846-8671-e8940ae96bb7" />
 
 ---
