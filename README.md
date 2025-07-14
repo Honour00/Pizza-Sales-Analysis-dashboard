@@ -120,15 +120,18 @@ The dashboard was built using Power BI based on a pizza sales dataset. It helps 
 
 ---
 
-## 👤 Author
+##  Author
 
 **Alabi Usman Ayodeji**  
 Aspiring Data Analyst | Excel | Power BI | SQL | Python  
-[LinkedIn]() *(Replace with your real LinkedIn)*
+[LinkedIn](https://www.linkedin.com/in/alabi-usman)
+[Email](usmanalabi26@gmail.com)
+[X](https://x.com/H0N0UR01)
+[Whatsapp](https://wa.me/+2348127747431)
 
 ---
 
-## 📫 Feedback & Contributions
+##  Feedback & Contributions
 
 Open to feedback, contributions, or collaboration ideas. Feel free to open an issue or message me!
 
