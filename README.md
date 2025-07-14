@@ -65,6 +65,15 @@ The dashboard was built using Power BI based on a pizza sales dataset. It helps 
 - **Revenue Breakdown by Pizza Type**
 
 ---
+##  Tools and Skills Used
+
+- **Power BI Desktop**
+- **Excel / CSV** (source data preprocessing)
+- **DAX / Power Query** (for data transformation)
+- **Visualization** (cards, bar charts, donut charts, line graphs)
+- **Data Modelling**
+
+---
 
 ## Insights & Recommendations
 
@@ -104,19 +113,23 @@ The dashboard was built using Power BI based on a pizza sales dataset. It helps 
 
 ---
 
-##  Tools and Skills Used
+## 📷 Snapshots
 
-- **Power BI Desktop**
-- **Excel / CSV** (source data preprocessing)
-- **DAX / Power Query** (for data transformation)
-- **Visualization** (cards, bar charts, donut charts, line graphs)
-- **Data Modelling**
+<img width="611" height="317" alt="pizza 1" src="https://github.com/user-attachments/assets/c76843d3-3ae0-45ed-a3f4-aeef73749f4e" />
+<img width="611" height="317" alt="pizza 2" src="https://github.com/user-attachments/assets/c208dac5-a096-41ec-81d6-af16a018d05a" />
 
 ---
 
-## 🚀 Getting Started
+## 👤 Author
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pizza-sales-analysis-dashboard.git
+**Alabi Usman Ayodeji**  
+Aspiring Data Analyst | Excel | Power BI | SQL | Python  
+[LinkedIn]() *(Replace with your real LinkedIn)*
 
+---
+
+## 📫 Feedback & Contributions
+
+Open to feedback, contributions, or collaboration ideas. Feel free to open an issue or message me!
+
+---
