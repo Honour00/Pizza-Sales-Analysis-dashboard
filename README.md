@@ -37,6 +37,11 @@ The dashboard was built using Power BI based on a pizza sales dataset. It helps 
 
 ---
 
+**Data Modelling**
+<img width="785" height="322" alt="Data Model 1" src="https://github.com/user-attachments/assets/a5837dd5-bfe0-4846-8671-e8940ae96bb7" />
+
+---
+
 ## Key Metrics
 
 | Metric                     | Value    |
@@ -61,9 +66,9 @@ The dashboard was built using Power BI based on a pizza sales dataset. It helps 
 
 ---
 
-## 🔍 Insights & Recommendations
+## Insights & Recommendations
 
-### 🔎 Insights:
+### Insights:
 - **Classic Deluxe (classic_clx)** is the best-selling pizza type with 2.5K units sold.
 - **Afternoon** is the peak sales time, followed by night.
 - **L-sized pizzas** account for the highest revenue share (45.89%).
@@ -76,7 +81,7 @@ The dashboard was built using Power BI based on a pizza sales dataset. It helps 
 
 
 
-### ✅ Recommendations:
+### Recommendations:
 - **Optimize Underperforming High-Volume Pizzas (e.g., Pepperoni, Hawaiian)**
   - Review pricing: Consider revising the pricing for these pizzas to better match their demand.
   - Upsell larger sizes: Offer bundled promotions (e.g., buy 2 medium, get 1 large or buy 2 large get a medium at a discount) to drive higher revenue per order.
