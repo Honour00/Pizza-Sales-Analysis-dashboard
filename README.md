@@ -126,7 +126,7 @@ The dashboard was built using Power BI based on a pizza sales dataset. It helps 
 ##  Author
 
 **Alabi Usman Ayodeji**  
-Aspiring Data Analyst | Excel | Power BI | SQL | Python  
+Data Analyst | Excel | Power BI | SQL | Python  
 [LinkedIn](https://www.linkedin.com/in/alabi-usman)
 [Email](usmanalabi26@gmail.com)
 [X](https://x.com/H0N0UR01)
@@ -136,6 +136,6 @@ Aspiring Data Analyst | Excel | Power BI | SQL | Python
 
 ##  Feedback & Contributions
 
-Open to feedback, contributions, or collaboration ideas. Feel free to open an issue or message me!
+Open to feedback, contributions, Entry-level/remote job roles, Mentorship (both giving and receiving) and Collaborations with other analysts or developers. Feel free to open an issue or message me!
 
 ---
